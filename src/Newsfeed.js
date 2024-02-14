@@ -43,9 +43,7 @@ function Newsfeed() {
           <h1>🎅Merry Christmas🎅</h1>
           <p id="buymecoffee">
             <a
-              href="https://www.buymeacoffee.com/zakirangwala"
-              target="_blank"
-              rel="noreferrer"
+          
             >
               Support me
             </a>
